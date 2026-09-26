@@ -23,6 +23,30 @@ The analysis examines factors such as social media platform usage, daily usage h
 
 ---
 
+## Dataset 
+
+The dataset contains information about Student Social Media And Mental Health Impact which was taken from a Kaggle site . It includes variables related to daily social media usage, platform preferences, purpose of social media use, study hours, physical activity, sleep, academic level, gender, age, stress, and mental health scores.
+
+### Main Dataset Variables
+
+* **Age** – Age of the student
+* **Gender** – Gender of the student
+* **Academic Level** – Student's academic level
+* **Most Used Platform** – Social media platform used most frequently
+* **Avg Daily Usage Hours** – Average number of hours spent on social media per day
+* **Daily Unlocks** – Number of times the student unlocks their device per day
+* **Purpose of Use** – Main reason for using social media
+* **Study Hours** – Number of hours spent studying
+* **Physical Activity Hours** – Hours spent on physical activity
+* **Sleep Hours Per Night** – Average hours of sleep per night
+* **Stress Level** – Student's reported stress level
+* **Mental Health Score** – Mental health score recorded for the student
+
+### Dataset Preparation
+
+The dataset was inspected and prepared using Python and Pandas. Duplicate records were identified and removed, missing values were checked, and descriptive statistics were used to understand the data before creating visualizations in Tableau.
+
+
 ## 🛠️ Tools & Technologies
 
 - **Python**
