@@ -37,6 +37,10 @@ The analysis examines factors such as social media platform usage, daily usage h
 
 ## 📊 Tableau Dashboard
 
+The main goal of the Tableau portion of this project is to transform the cleaned dataset into **clear, interactive visualizations** that make patterns and relationships easier to understand.
+
+The dashboard can be used to explore student behavior and compare social media usage with academic, lifestyle, and mental-health measures.
+
 The Tableau workbook contains three main dashboards.
 
 ### 1. Overview
@@ -115,13 +119,6 @@ A correlation matrix is used to examine relationships among:
 
 ---
 
-## 📊 Dashboard Purpose
-
-The main goal of the Tableau portion of this project is to transform the cleaned dataset into **clear, interactive visualizations** that make patterns and relationships easier to understand.
-
-The dashboard can be used to explore student behavior and compare social media usage with academic, lifestyle, and mental-health measures.
-
----
 
 ## 📈 Outcome / Expected Outcome
 
