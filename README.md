@@ -34,53 +34,6 @@ The analysis examines factors such as social media platform usage, daily usage h
 
 ---
 
-## 📂 Project Files
-
-```text
-Student-Social-Media-Mental-Health/
-│
-├── Student_Social_Media_and_Mental_Health_Impact_Tableau_Ready.ipynb
-├── Student Social Media And Mental Health Impact 1.csv
-├── Book2.twb
-└── README.md
-```
-
-> **Important:** The Tableau workbook should be uploaded together with the CSV data file it uses. The `.twb` workbook currently references a local CSV file path, so after downloading/cloning the GitHub repository, you may need to reconnect the Tableau workbook to the CSV on your computer.
-
----
-
-## 🧹 Python Data Preparation
-
-The notebook includes the following steps:
-
-1. Import Python libraries
-2. Load the dataset
-3. Preview the data
-4. Inspect the dataset structure and data types
-5. Check for duplicate rows
-6. Display duplicate records
-7. Remove duplicate records
-8. Verify duplicate removal
-9. Check for missing values
-10. Detect potential outliers
-11. Generate descriptive statistics
-12. Analyze the most-used social media platforms
-13. Visualize platform distribution
-14. Analyze the purpose of social media use
-15. Visualize purpose of use
-16. Compare average daily usage by platform
-17. Analyze mental health scores by gender
-18. Visualize mental health scores by gender
-19. Analyze academic level and gender
-20. Visualize academic level by gender
-21. Analyze social media usage vs. study hours
-22. Analyze social media usage vs. physical activity
-23. Analyze social media usage vs. sleep
-24. Analyze median age by gender
-25. Perform correlation analysis
-26. Prepare the cleaned dataset for Tableau
-
----
 
 ## 📊 Tableau Dashboard
 
@@ -114,25 +67,6 @@ Explores student characteristics and groups using factors such as:
 
 ---
 
-## 📈 Tableau Worksheets
-
-The workbook includes supporting worksheets such as:
-
-- Academic by Usage Category
-- Academic Level
-- Age x Stress
-- Platform Distribution
-- Score by Platform
-- Score by Stress
-- Score by Usage Category
-- Sleep vs Score
-- Stress Distribution
-- Student Segment
-- Study vs Score
-- Usage Distribution
-- Usage vs Score
-
----
 
 ## 🔎 Key Analysis Areas
 
@@ -179,52 +113,15 @@ The dashboard can be used to explore student behavior and compare social media u
 
 ---
 
-## 🚀 How to Use the Project
+## 📈 Outcome / Expected Outcome
 
-### Python Notebook
+The expected outcome of this project is to provide a clear understanding of how social media usage may relate to students’ academic activities, lifestyle habits, and mental health. The cleaned dataset and Tableau dashboards are expected to help identify patterns in social media usage, study time, sleep, physical activity, stress, and mental health scores.
 
-Open:
+The project will provide:
 
-```text
-Student_Social_Media_and_Mental_Health_Impact_Tableau_Ready.ipynb
-```
-
-in Jupyter Notebook or JupyterLab.
-
-Make sure the CSV file is in the appropriate working directory before running the notebook.
-
-### Tableau
-
-Open:
-
-```text
-Book2.twb
-```
-
-using Tableau Desktop.
-
-If Tableau cannot find the data source, reconnect the workbook to:
-
-```text
-Student Social Media And Mental Health Impact 1.csv
-```
-
----
-
-## 📁 Recommended GitHub Repository Structure
-
-```text
-Student-Social-Media-Mental-Health/
-│
-├── README.md
-├── Student_Social_Media_and_Mental_Health_Impact_Tableau_Ready.ipynb
-├── Student Social Media And Mental Health Impact 1.csv
-└── Book2.twb
-```
-
----
-
-## 👤 Project Type
-
-**Data Analysis | Data Visualization | Tableau | Python | Exploratory Data Analysis**
+* Interactive Tableau dashboards for exploring student data.
+* Visual insights into social media usage and student behavior.
+* Comparisons across platforms, academic levels, gender, and student segments.
+* Analysis of relationships between social media usage, study hours, sleep, physical activity, stress, and mental health.
+* A cleaned and organized dataset that can be reused for further analysis.
 
