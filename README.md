@@ -46,6 +46,7 @@ The dataset contains information about Student Social Media And Mental Health Im
 
 The dataset was inspected and prepared using Python and Pandas. Duplicate records were identified and removed, missing values were checked, and descriptive statistics were used to understand the data before creating visualizations in Tableau.
 
+--
 
 ## 🛠️ Tools & Technologies
 
