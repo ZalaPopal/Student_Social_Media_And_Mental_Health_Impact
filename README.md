@@ -43,27 +43,37 @@ The Tableau workbook contains three main dashboards.
 
 Provides a high-level view of the student social media and mental-health dataset.
 
+- KPI - Total Students
+- KPI - Avg Usage
+- KPI - Avg Mental Health Score
+- KPI - Avg Sleep
+- Chart - Academic Level
+- Chart - Usage Distribution
+- Chart - Stress Distribution
+- Chart - Platform Distribution
+
 ### 2. Social Media & Mental Health
 
 Explores relationships between:
 
-- Social media usage
-- Mental health scores
-- Stress
-- Sleep
-- Study hours
-- Social media platforms
-- Usage categories
+- KPI - Avg Usage
+- KPI - Avg Mental Health Score
+- KPI - Avg Unlocks
+- KPI - Avg Study Hours
+- Scatter - Usage vs Score
+- Box Plot - Score by Usage Category
+- Bar - Score by Stress
+- Heatmap - Academic x Usage
 
 ### 3. Student Segments
 
 Explores student characteristics and groups using factors such as:
 
-- Age
-- Gender
-- Academic level
-- Social media usage
-- Student segments
+- Heatmap - Age vs Stress
+- Scatter - Sleep vs Score
+- Scatter - Study vs Score
+- Bar - Score by Platform
+- Table - Student Segments
 
 ---
 
