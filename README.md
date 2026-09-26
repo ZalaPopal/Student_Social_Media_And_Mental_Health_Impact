@@ -23,7 +23,7 @@ The analysis examines factors such as social media platform usage, daily usage h
 
 ---
 
-## Dataset 
+## 📖 Dataset 
 
 The dataset contains information about Student Social Media And Mental Health Impact which was taken from `Kaggle` platform [CLICK HERE](https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact).. It includes variables related to daily social media usage, platform preferences, purpose of social media use, study hours, physical activity, sleep, academic level, gender, age, stress, and mental health scores.
 
